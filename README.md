@@ -10,3 +10,4 @@ PROJETO
 [HORARIODEAULAS_informatica EDITADO 2.xlsx](https://github.com/Rafatecalixto/INFORMATICA/files/15046361/HORARIODEAULAS_informatica.EDITADO.2.xlsx)
 ![image](https://github.com/Rafatecalixto/INFORMATICA/assets/163212752/4a591ae7-7753-43ae-b532-da4c1109c4e1)
 
+[usinas-e-destilarias-al.xlsx RAFAEL.xlsx](https://github.com/Rafatecalixto/INFORMATICA/files/15382547/usinas-e-destilarias-al.xlsx.RAFAEL.xlsx)
