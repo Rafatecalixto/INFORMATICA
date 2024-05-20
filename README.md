@@ -4,6 +4,7 @@
 
  [usinas-e-destilarias-al.xlsx RAFAEL.xlsx](https://github.com/Rafatecalixto/INFORMATICA/files/15382547/usinas-e-destilarias-al.xlsx.RAFAEL.xlsx)
 
+![image](https://github.com/Rafatecalixto/INFORMATICA/assets/163212752/a5ce27ea-2626-4dbc-a394-587c89e5aa32)
 
  
  
